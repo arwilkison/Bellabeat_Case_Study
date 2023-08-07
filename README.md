@@ -8,7 +8,7 @@ Email: a.wilkison1026@gmail.com
 
 [GitHub](https://github.com/arwilkison?tab=repositories)
 
-[LinkedIn](www.linkedin.com/in/alexwilkison)
+[LinkedIn](https://linkedin.com/in/alexwilkison)
 
 ### About the Project
 Welcome to my Capstone project for the Google Data Analytics Certificate through the Data Analytics program with Merit America.  
